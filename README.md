@@ -1,56 +1,57 @@
-# Revenue Analytics Data Mart
+# Shipping Cost Intelligence System
 
-Senior-level SQL and Tableau project demonstrating how transactional order data can be transformed into a reporting-ready analytics layer for executive revenue reporting, customer retention analysis, and product performance measurement.
+A Brainforge-style analytics case study that simulates how a growth-stage retailer could consolidate fragmented carrier data into a single decision-support system for logistics optimization, surcharge analysis, and carrier negotiation readiness.
 
-## Project Summary
+## Why this project exists
 
-This project simulates the design of a revenue-focused analytics data mart that supports recurring business review and executive KPI reporting. Using raw order, customer, and product data, I built SQL transformation logic to define standardized revenue metrics, customer cohort retention, customer lifetime value, and product-level performance.
+Brainforge highlights work that turns ambiguous operational problems into practical systems that improve decision-making. In one of its retail case studies, the firm describes consolidating multi-carrier shipping data, calculating true cost-per-pound and cost-per-shipment, and modeling proposed carrier rates to unlock six-figure savings. This project mirrors that style of engagement with a larger synthetic dataset and a structured SQL modeling layer.
 
-The resulting models are structured to support scalable BI reporting and Tableau dashboard development.
+## Project objective
 
-## Analytics Architecture
+Build a reporting-ready analytics layer that helps an operations team answer:
 
-This project follows a layered analytics modeling approach commonly used in modern BI environments.
+- What is the true cost per shipment and cost per billed pound?
+- Which carriers and service levels are most cost-efficient?
+- Which lanes and zones carry the highest surcharge burden?
+- How often is billed weight materially above actual package weight?
+- What savings could be realized under proposed carrier rates?
 
-Raw Source Data (CSV tables)  
-→ SQL Staging Layer  
-→ Business Metric Models  
-→ Executive KPI Summary Table  
-→ Tableau Executive Dashboard
+## Dataset contents
 
-The SQL models define standardized revenue metrics, retention analysis, product performance, and customer lifetime value used for executive reporting.
-## Business Questions Answered
+- `shipments.csv` — 5,000 historical shipments across 2024–2025
+- `carriers.csv` — carrier master data
+- `rate_cards.csv` — current contracted rate bands by carrier, service level, zone, and weight band
+- `proposed_rates.csv` — proposed rate bands for negotiation scenario modeling
 
-- How is revenue trending month over month?
-- What is driving revenue growth or decline?
-- How many new versus returning customers are purchasing each month?
-- Which products generate the highest revenue and order volume?
-- How are customer cohorts retained over time?
-- Which customers generate the highest lifetime value?
+## SQL models
 
- ## Key Insights from the Analysis
+- `01_stg_shipments.sql`
+- `02_shipping_cost_metrics.sql`
+- `03_surcharge_analysis.sql`
+- `04_carrier_performance.sql`
+- `05_lane_cost_analysis.sql`
+- `06_rate_change_scenario_model.sql`
+- `07_executive_summary.sql`
 
-Using the modeled metrics, several actionable business insights emerge:
+## Suggested Tableau dashboard
 
-- Revenue growth is primarily driven by repeat customers rather than new customer acquisition.
-- A small subset of products contributes a disproportionate share of total revenue, suggesting opportunities for focused marketing and inventory planning.
-- Paid Search drives strong initial acquisition but lower long-term retention compared to Organic and Referral channels.
-- High-value customers demonstrate significantly higher order frequency and lifetime value, indicating potential for loyalty or subscription programs.
+Title: **Shipping Cost Intelligence Dashboard**
 
-## Technical Skills Demonstrated
+KPI cards:
+- Total Shipping Spend
+- Cost per Shipment
+- Cost per Billed Pound
+- Surcharge % of Cost
+- Projected Savings Under Proposed Rates
 
-- Advanced SQL transformations
-- Common Table Expressions (CTEs)
-- Window functions
-- Cohort retention analysis
-- Customer lifetime value modeling
-- KPI standardization
-- Tableau dashboard design
-- Reporting layer development
+Core visuals:
+- Monthly shipping spend trend
+- Carrier/service-level comparison
+- Surcharge burden by zone
+- Lane cost heatmap
+- Billed-vs-actual weight mismatch analysis
+- Savings waterfall or bar chart for proposed-rate scenario
 
-## Analytics Flow
+## AI extension idea
 
-Raw CSV Source Data  
-→ SQL Staging and Metric Modeling  
-→ Reporting-Ready Revenue Data Mart  
-→ Tableau Executive Dashboard
+An AI-assisted workflow could ingest messy PDF carrier rate sheets, extract rate bands into structured tables, and automatically compare them against historical shipment patterns to quantify negotiation opportunities.
