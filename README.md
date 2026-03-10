@@ -28,6 +28,15 @@ The SQL models define standardized revenue metrics, retention analysis, product 
 - How are customer cohorts retained over time?
 - Which customers generate the highest lifetime value?
 
+ ## Key Insights from the Analysis
+
+Using the modeled metrics, several actionable business insights emerge:
+
+- Revenue growth is primarily driven by repeat customers rather than new customer acquisition.
+- A small subset of products contributes a disproportionate share of total revenue, suggesting opportunities for focused marketing and inventory planning.
+- Paid Search drives strong initial acquisition but lower long-term retention compared to Organic and Referral channels.
+- High-value customers demonstrate significantly higher order frequency and lifetime value, indicating potential for loyalty or subscription programs.
+
 ## Technical Skills Demonstrated
 
 - Advanced SQL transformations
