@@ -1,1 +1,449 @@
-
+carrier_id,carrier_name,service_level,zone,min_weight_lb,max_weight_lb,base_rate_per_lb
+CR001,UPS,Ground,2,0,1,4.24
+CR001,UPS,Ground,2,1,3,4.24
+CR001,UPS,Ground,2,3,5,4.62
+CR001,UPS,Ground,2,5,10,4.99
+CR001,UPS,Ground,2,10,20,5.93
+CR001,UPS,Ground,2,20,50,7.8
+CR001,UPS,Ground,2,50,100,13.42
+CR001,UPS,Ground,3,0,1,4.82
+CR001,UPS,Ground,3,1,3,4.82
+CR001,UPS,Ground,3,3,5,5.19
+CR001,UPS,Ground,3,5,10,5.56
+CR001,UPS,Ground,3,10,20,6.5
+CR001,UPS,Ground,3,20,50,8.37
+CR001,UPS,Ground,3,50,100,13.99
+CR001,UPS,Ground,4,0,1,5.39
+CR001,UPS,Ground,4,1,3,5.39
+CR001,UPS,Ground,4,3,5,5.76
+CR001,UPS,Ground,4,5,10,6.14
+CR001,UPS,Ground,4,10,20,7.07
+CR001,UPS,Ground,4,20,50,8.94
+CR001,UPS,Ground,4,50,100,14.56
+CR001,UPS,Ground,5,0,1,5.96
+CR001,UPS,Ground,5,1,3,5.96
+CR001,UPS,Ground,5,3,5,6.33
+CR001,UPS,Ground,5,5,10,6.71
+CR001,UPS,Ground,5,10,20,7.64
+CR001,UPS,Ground,5,20,50,9.52
+CR001,UPS,Ground,5,50,100,15.13
+CR001,UPS,Ground,6,0,1,6.53
+CR001,UPS,Ground,6,1,3,6.53
+CR001,UPS,Ground,6,3,5,6.91
+CR001,UPS,Ground,6,5,10,7.28
+CR001,UPS,Ground,6,10,20,8.22
+CR001,UPS,Ground,6,20,50,10.09
+CR001,UPS,Ground,6,50,100,15.7
+CR001,UPS,Ground,7,0,1,7.1
+CR001,UPS,Ground,7,1,3,7.1
+CR001,UPS,Ground,7,3,5,7.48
+CR001,UPS,Ground,7,5,10,7.85
+CR001,UPS,Ground,7,10,20,8.79
+CR001,UPS,Ground,7,20,50,10.66
+CR001,UPS,Ground,7,50,100,16.28
+CR001,UPS,Ground,8,0,1,7.68
+CR001,UPS,Ground,8,1,3,7.68
+CR001,UPS,Ground,8,3,5,8.05
+CR001,UPS,Ground,8,5,10,8.42
+CR001,UPS,Ground,8,10,20,9.36
+CR001,UPS,Ground,8,20,50,11.23
+CR001,UPS,Ground,8,50,100,16.85
+CR001,UPS,2nd Day Air,2,0,1,6.15
+CR001,UPS,2nd Day Air,2,1,3,6.15
+CR001,UPS,2nd Day Air,2,3,5,6.7
+CR001,UPS,2nd Day Air,2,5,10,7.24
+CR001,UPS,2nd Day Air,2,10,20,8.6
+CR001,UPS,2nd Day Air,2,20,50,11.31
+CR001,UPS,2nd Day Air,2,50,100,19.45
+CR001,UPS,2nd Day Air,3,0,1,6.98
+CR001,UPS,2nd Day Air,3,1,3,6.98
+CR001,UPS,2nd Day Air,3,3,5,7.52
+CR001,UPS,2nd Day Air,3,5,10,8.07
+CR001,UPS,2nd Day Air,3,10,20,9.43
+CR001,UPS,2nd Day Air,3,20,50,12.14
+CR001,UPS,2nd Day Air,3,50,100,20.28
+CR001,UPS,2nd Day Air,4,0,1,7.81
+CR001,UPS,2nd Day Air,4,1,3,7.81
+CR001,UPS,2nd Day Air,4,3,5,8.35
+CR001,UPS,2nd Day Air,4,5,10,8.9
+CR001,UPS,2nd Day Air,4,10,20,10.25
+CR001,UPS,2nd Day Air,4,20,50,12.97
+CR001,UPS,2nd Day Air,4,50,100,21.11
+CR001,UPS,2nd Day Air,5,0,1,8.64
+CR001,UPS,2nd Day Air,5,1,3,8.64
+CR001,UPS,2nd Day Air,5,3,5,9.18
+CR001,UPS,2nd Day Air,5,5,10,9.73
+CR001,UPS,2nd Day Air,5,10,20,11.08
+CR001,UPS,2nd Day Air,5,20,50,13.8
+CR001,UPS,2nd Day Air,5,50,100,21.94
+CR001,UPS,2nd Day Air,6,0,1,9.47
+CR001,UPS,2nd Day Air,6,1,3,9.47
+CR001,UPS,2nd Day Air,6,3,5,10.01
+CR001,UPS,2nd Day Air,6,5,10,10.56
+CR001,UPS,2nd Day Air,6,10,20,11.91
+CR001,UPS,2nd Day Air,6,20,50,14.63
+CR001,UPS,2nd Day Air,6,50,100,22.77
+CR001,UPS,2nd Day Air,7,0,1,10.3
+CR001,UPS,2nd Day Air,7,1,3,10.3
+CR001,UPS,2nd Day Air,7,3,5,10.84
+CR001,UPS,2nd Day Air,7,5,10,11.39
+CR001,UPS,2nd Day Air,7,10,20,12.74
+CR001,UPS,2nd Day Air,7,20,50,15.46
+CR001,UPS,2nd Day Air,7,50,100,23.6
+CR001,UPS,2nd Day Air,8,0,1,11.13
+CR001,UPS,2nd Day Air,8,1,3,11.13
+CR001,UPS,2nd Day Air,8,3,5,11.67
+CR001,UPS,2nd Day Air,8,5,10,12.21
+CR001,UPS,2nd Day Air,8,10,20,13.57
+CR001,UPS,2nd Day Air,8,20,50,16.29
+CR001,UPS,2nd Day Air,8,50,100,24.43
+CR001,UPS,Next Day Air,2,0,1,8.49
+CR001,UPS,Next Day Air,2,1,3,8.49
+CR001,UPS,Next Day Air,2,3,5,9.24
+CR001,UPS,Next Day Air,2,5,10,9.98
+CR001,UPS,Next Day Air,2,10,20,11.86
+CR001,UPS,Next Day Air,2,20,50,15.6
+CR001,UPS,Next Day Air,2,50,100,26.83
+CR001,UPS,Next Day Air,3,0,1,9.63
+CR001,UPS,Next Day Air,3,1,3,9.63
+CR001,UPS,Next Day Air,3,3,5,10.38
+CR001,UPS,Next Day Air,3,5,10,11.13
+CR001,UPS,Next Day Air,3,10,20,13.0
+CR001,UPS,Next Day Air,3,20,50,16.74
+CR001,UPS,Next Day Air,3,50,100,27.98
+CR001,UPS,Next Day Air,4,0,1,10.77
+CR001,UPS,Next Day Air,4,1,3,10.77
+CR001,UPS,Next Day Air,4,3,5,11.52
+CR001,UPS,Next Day Air,4,5,10,12.27
+CR001,UPS,Next Day Air,4,10,20,14.14
+CR001,UPS,Next Day Air,4,20,50,17.89
+CR001,UPS,Next Day Air,4,50,100,29.12
+CR001,UPS,Next Day Air,5,0,1,11.92
+CR001,UPS,Next Day Air,5,1,3,11.92
+CR001,UPS,Next Day Air,5,3,5,12.67
+CR001,UPS,Next Day Air,5,5,10,13.42
+CR001,UPS,Next Day Air,5,10,20,15.29
+CR001,UPS,Next Day Air,5,20,50,19.03
+CR001,UPS,Next Day Air,5,50,100,30.26
+CR001,UPS,Next Day Air,6,0,1,13.06
+CR001,UPS,Next Day Air,6,1,3,13.06
+CR001,UPS,Next Day Air,6,3,5,13.81
+CR001,UPS,Next Day Air,6,5,10,14.56
+CR001,UPS,Next Day Air,6,10,20,16.43
+CR001,UPS,Next Day Air,6,20,50,20.18
+CR001,UPS,Next Day Air,6,50,100,31.41
+CR001,UPS,Next Day Air,7,0,1,14.21
+CR001,UPS,Next Day Air,7,1,3,14.21
+CR001,UPS,Next Day Air,7,3,5,14.96
+CR001,UPS,Next Day Air,7,5,10,15.7
+CR001,UPS,Next Day Air,7,10,20,17.58
+CR001,UPS,Next Day Air,7,20,50,21.32
+CR001,UPS,Next Day Air,7,50,100,32.55
+CR001,UPS,Next Day Air,8,0,1,15.35
+CR001,UPS,Next Day Air,8,1,3,15.35
+CR001,UPS,Next Day Air,8,3,5,16.1
+CR001,UPS,Next Day Air,8,5,10,16.85
+CR001,UPS,Next Day Air,8,10,20,18.72
+CR001,UPS,Next Day Air,8,20,50,22.46
+CR001,UPS,Next Day Air,8,50,100,33.7
+CR002,FedEx,Ground,2,0,1,4.37
+CR002,FedEx,Ground,2,1,3,4.37
+CR002,FedEx,Ground,2,3,5,4.75
+CR002,FedEx,Ground,2,5,10,5.14
+CR002,FedEx,Ground,2,10,20,6.1
+CR002,FedEx,Ground,2,20,50,8.03
+CR002,FedEx,Ground,2,50,100,13.8
+CR002,FedEx,Ground,3,0,1,4.95
+CR002,FedEx,Ground,3,1,3,4.95
+CR002,FedEx,Ground,3,3,5,5.34
+CR002,FedEx,Ground,3,5,10,5.72
+CR002,FedEx,Ground,3,10,20,6.69
+CR002,FedEx,Ground,3,20,50,8.61
+CR002,FedEx,Ground,3,50,100,14.39
+CR002,FedEx,Ground,4,0,1,5.54
+CR002,FedEx,Ground,4,1,3,5.54
+CR002,FedEx,Ground,4,3,5,5.93
+CR002,FedEx,Ground,4,5,10,6.31
+CR002,FedEx,Ground,4,10,20,7.28
+CR002,FedEx,Ground,4,20,50,9.2
+CR002,FedEx,Ground,4,50,100,14.98
+CR002,FedEx,Ground,5,0,1,6.13
+CR002,FedEx,Ground,5,1,3,6.13
+CR002,FedEx,Ground,5,3,5,6.52
+CR002,FedEx,Ground,5,5,10,6.9
+CR002,FedEx,Ground,5,10,20,7.86
+CR002,FedEx,Ground,5,20,50,9.79
+CR002,FedEx,Ground,5,50,100,15.57
+CR002,FedEx,Ground,6,0,1,6.72
+CR002,FedEx,Ground,6,1,3,6.72
+CR002,FedEx,Ground,6,3,5,7.1
+CR002,FedEx,Ground,6,5,10,7.49
+CR002,FedEx,Ground,6,10,20,8.45
+CR002,FedEx,Ground,6,20,50,10.38
+CR002,FedEx,Ground,6,50,100,16.16
+CR002,FedEx,Ground,7,0,1,7.31
+CR002,FedEx,Ground,7,1,3,7.31
+CR002,FedEx,Ground,7,3,5,7.69
+CR002,FedEx,Ground,7,5,10,8.08
+CR002,FedEx,Ground,7,10,20,9.04
+CR002,FedEx,Ground,7,20,50,10.97
+CR002,FedEx,Ground,7,50,100,16.75
+CR002,FedEx,Ground,8,0,1,7.9
+CR002,FedEx,Ground,8,1,3,7.9
+CR002,FedEx,Ground,8,3,5,8.28
+CR002,FedEx,Ground,8,5,10,8.67
+CR002,FedEx,Ground,8,10,20,9.63
+CR002,FedEx,Ground,8,20,50,11.56
+CR002,FedEx,Ground,8,50,100,17.33
+CR002,FedEx,Express Saver,2,0,1,5.89
+CR002,FedEx,Express Saver,2,1,3,5.89
+CR002,FedEx,Express Saver,2,3,5,6.41
+CR002,FedEx,Express Saver,2,5,10,6.93
+CR002,FedEx,Express Saver,2,10,20,8.23
+CR002,FedEx,Express Saver,2,20,50,10.83
+CR002,FedEx,Express Saver,2,50,100,18.63
+CR002,FedEx,Express Saver,3,0,1,6.69
+CR002,FedEx,Express Saver,3,1,3,6.69
+CR002,FedEx,Express Saver,3,3,5,7.21
+CR002,FedEx,Express Saver,3,5,10,7.73
+CR002,FedEx,Express Saver,3,10,20,9.03
+CR002,FedEx,Express Saver,3,20,50,11.63
+CR002,FedEx,Express Saver,3,50,100,19.43
+CR002,FedEx,Express Saver,4,0,1,7.48
+CR002,FedEx,Express Saver,4,1,3,7.48
+CR002,FedEx,Express Saver,4,3,5,8.0
+CR002,FedEx,Express Saver,4,5,10,8.52
+CR002,FedEx,Express Saver,4,10,20,9.82
+CR002,FedEx,Express Saver,4,20,50,12.42
+CR002,FedEx,Express Saver,4,50,100,20.22
+CR002,FedEx,Express Saver,5,0,1,8.28
+CR002,FedEx,Express Saver,5,1,3,8.28
+CR002,FedEx,Express Saver,5,3,5,8.8
+CR002,FedEx,Express Saver,5,5,10,9.32
+CR002,FedEx,Express Saver,5,10,20,10.62
+CR002,FedEx,Express Saver,5,20,50,13.22
+CR002,FedEx,Express Saver,5,50,100,21.02
+CR002,FedEx,Express Saver,6,0,1,9.07
+CR002,FedEx,Express Saver,6,1,3,9.07
+CR002,FedEx,Express Saver,6,3,5,9.59
+CR002,FedEx,Express Saver,6,5,10,10.11
+CR002,FedEx,Express Saver,6,10,20,11.41
+CR002,FedEx,Express Saver,6,20,50,14.01
+CR002,FedEx,Express Saver,6,50,100,21.81
+CR002,FedEx,Express Saver,7,0,1,9.87
+CR002,FedEx,Express Saver,7,1,3,9.87
+CR002,FedEx,Express Saver,7,3,5,10.39
+CR002,FedEx,Express Saver,7,5,10,10.91
+CR002,FedEx,Express Saver,7,10,20,12.21
+CR002,FedEx,Express Saver,7,20,50,14.81
+CR002,FedEx,Express Saver,7,50,100,22.61
+CR002,FedEx,Express Saver,8,0,1,10.66
+CR002,FedEx,Express Saver,8,1,3,10.66
+CR002,FedEx,Express Saver,8,3,5,11.18
+CR002,FedEx,Express Saver,8,5,10,11.7
+CR002,FedEx,Express Saver,8,10,20,13.0
+CR002,FedEx,Express Saver,8,20,50,15.6
+CR002,FedEx,Express Saver,8,50,100,23.4
+CR002,FedEx,2Day,2,0,1,6.77
+CR002,FedEx,2Day,2,1,3,6.77
+CR002,FedEx,2Day,2,3,5,7.36
+CR002,FedEx,2Day,2,5,10,7.96
+CR002,FedEx,2Day,2,10,20,9.45
+CR002,FedEx,2Day,2,20,50,12.44
+CR002,FedEx,2Day,2,50,100,21.39
+CR002,FedEx,2Day,3,0,1,7.68
+CR002,FedEx,2Day,3,1,3,7.68
+CR002,FedEx,2Day,3,3,5,8.28
+CR002,FedEx,2Day,3,5,10,8.87
+CR002,FedEx,2Day,3,10,20,10.37
+CR002,FedEx,2Day,3,20,50,13.35
+CR002,FedEx,2Day,3,50,100,22.31
+CR002,FedEx,2Day,4,0,1,8.59
+CR002,FedEx,2Day,4,1,3,8.59
+CR002,FedEx,2Day,4,3,5,9.19
+CR002,FedEx,2Day,4,5,10,9.79
+CR002,FedEx,2Day,4,10,20,11.28
+CR002,FedEx,2Day,4,20,50,14.26
+CR002,FedEx,2Day,4,50,100,23.22
+CR002,FedEx,2Day,5,0,1,9.5
+CR002,FedEx,2Day,5,1,3,9.5
+CR002,FedEx,2Day,5,3,5,10.1
+CR002,FedEx,2Day,5,5,10,10.7
+CR002,FedEx,2Day,5,10,20,12.19
+CR002,FedEx,2Day,5,20,50,15.18
+CR002,FedEx,2Day,5,50,100,24.13
+CR002,FedEx,2Day,6,0,1,10.42
+CR002,FedEx,2Day,6,1,3,10.42
+CR002,FedEx,2Day,6,3,5,11.01
+CR002,FedEx,2Day,6,5,10,11.61
+CR002,FedEx,2Day,6,10,20,13.1
+CR002,FedEx,2Day,6,20,50,16.09
+CR002,FedEx,2Day,6,50,100,25.04
+CR002,FedEx,2Day,7,0,1,11.33
+CR002,FedEx,2Day,7,1,3,11.33
+CR002,FedEx,2Day,7,3,5,11.92
+CR002,FedEx,2Day,7,5,10,12.52
+CR002,FedEx,2Day,7,10,20,14.01
+CR002,FedEx,2Day,7,20,50,17.0
+CR002,FedEx,2Day,7,50,100,25.96
+CR002,FedEx,2Day,8,0,1,12.24
+CR002,FedEx,2Day,8,1,3,12.24
+CR002,FedEx,2Day,8,3,5,12.84
+CR002,FedEx,2Day,8,5,10,13.43
+CR002,FedEx,2Day,8,10,20,14.93
+CR002,FedEx,2Day,8,20,50,17.91
+CR002,FedEx,2Day,8,50,100,26.87
+CR003,USPS,Ground Advantage,2,0,1,3.3
+CR003,USPS,Ground Advantage,2,1,3,3.3
+CR003,USPS,Ground Advantage,2,3,5,3.59
+CR003,USPS,Ground Advantage,2,5,10,3.89
+CR003,USPS,Ground Advantage,2,10,20,4.61
+CR003,USPS,Ground Advantage,2,20,50,6.07
+CR003,USPS,Ground Advantage,2,50,100,10.44
+CR003,USPS,Ground Advantage,3,0,1,3.75
+CR003,USPS,Ground Advantage,3,1,3,3.75
+CR003,USPS,Ground Advantage,3,3,5,4.04
+CR003,USPS,Ground Advantage,3,5,10,4.33
+CR003,USPS,Ground Advantage,3,10,20,5.06
+CR003,USPS,Ground Advantage,3,20,50,6.52
+CR003,USPS,Ground Advantage,3,50,100,10.89
+CR003,USPS,Ground Advantage,4,0,1,4.19
+CR003,USPS,Ground Advantage,4,1,3,4.19
+CR003,USPS,Ground Advantage,4,3,5,4.49
+CR003,USPS,Ground Advantage,4,5,10,4.78
+CR003,USPS,Ground Advantage,4,10,20,5.51
+CR003,USPS,Ground Advantage,4,20,50,6.96
+CR003,USPS,Ground Advantage,4,50,100,11.33
+CR003,USPS,Ground Advantage,5,0,1,4.64
+CR003,USPS,Ground Advantage,5,1,3,4.64
+CR003,USPS,Ground Advantage,5,3,5,4.93
+CR003,USPS,Ground Advantage,5,5,10,5.22
+CR003,USPS,Ground Advantage,5,10,20,5.95
+CR003,USPS,Ground Advantage,5,20,50,7.41
+CR003,USPS,Ground Advantage,5,50,100,11.78
+CR003,USPS,Ground Advantage,6,0,1,5.08
+CR003,USPS,Ground Advantage,6,1,3,5.08
+CR003,USPS,Ground Advantage,6,3,5,5.38
+CR003,USPS,Ground Advantage,6,5,10,5.67
+CR003,USPS,Ground Advantage,6,10,20,6.4
+CR003,USPS,Ground Advantage,6,20,50,7.85
+CR003,USPS,Ground Advantage,6,50,100,12.22
+CR003,USPS,Ground Advantage,7,0,1,5.53
+CR003,USPS,Ground Advantage,7,1,3,5.53
+CR003,USPS,Ground Advantage,7,3,5,5.82
+CR003,USPS,Ground Advantage,7,5,10,6.11
+CR003,USPS,Ground Advantage,7,10,20,6.84
+CR003,USPS,Ground Advantage,7,20,50,8.3
+CR003,USPS,Ground Advantage,7,50,100,12.67
+CR003,USPS,Ground Advantage,8,0,1,5.97
+CR003,USPS,Ground Advantage,8,1,3,5.97
+CR003,USPS,Ground Advantage,8,3,5,6.27
+CR003,USPS,Ground Advantage,8,5,10,6.56
+CR003,USPS,Ground Advantage,8,10,20,7.29
+CR003,USPS,Ground Advantage,8,20,50,8.74
+CR003,USPS,Ground Advantage,8,50,100,13.12
+CR003,USPS,Priority Mail,2,0,1,4.69
+CR003,USPS,Priority Mail,2,1,3,4.69
+CR003,USPS,Priority Mail,2,3,5,5.11
+CR003,USPS,Priority Mail,2,5,10,5.52
+CR003,USPS,Priority Mail,2,10,20,6.55
+CR003,USPS,Priority Mail,2,20,50,8.62
+CR003,USPS,Priority Mail,2,50,100,14.84
+CR003,USPS,Priority Mail,3,0,1,5.32
+CR003,USPS,Priority Mail,3,1,3,5.32
+CR003,USPS,Priority Mail,3,3,5,5.74
+CR003,USPS,Priority Mail,3,5,10,6.15
+CR003,USPS,Priority Mail,3,10,20,7.19
+CR003,USPS,Priority Mail,3,20,50,9.26
+CR003,USPS,Priority Mail,3,50,100,15.47
+CR003,USPS,Priority Mail,4,0,1,5.96
+CR003,USPS,Priority Mail,4,1,3,5.96
+CR003,USPS,Priority Mail,4,3,5,6.37
+CR003,USPS,Priority Mail,4,5,10,6.79
+CR003,USPS,Priority Mail,4,10,20,7.82
+CR003,USPS,Priority Mail,4,20,50,9.89
+CR003,USPS,Priority Mail,4,50,100,16.1
+CR003,USPS,Priority Mail,5,0,1,6.59
+CR003,USPS,Priority Mail,5,1,3,6.59
+CR003,USPS,Priority Mail,5,3,5,7.0
+CR003,USPS,Priority Mail,5,5,10,7.42
+CR003,USPS,Priority Mail,5,10,20,8.45
+CR003,USPS,Priority Mail,5,20,50,10.52
+CR003,USPS,Priority Mail,5,50,100,16.73
+CR003,USPS,Priority Mail,6,0,1,7.22
+CR003,USPS,Priority Mail,6,1,3,7.22
+CR003,USPS,Priority Mail,6,3,5,7.64
+CR003,USPS,Priority Mail,6,5,10,8.05
+CR003,USPS,Priority Mail,6,10,20,9.09
+CR003,USPS,Priority Mail,6,20,50,11.16
+CR003,USPS,Priority Mail,6,50,100,17.37
+CR003,USPS,Priority Mail,7,0,1,7.85
+CR003,USPS,Priority Mail,7,1,3,7.85
+CR003,USPS,Priority Mail,7,3,5,8.27
+CR003,USPS,Priority Mail,7,5,10,8.68
+CR003,USPS,Priority Mail,7,10,20,9.72
+CR003,USPS,Priority Mail,7,20,50,11.79
+CR003,USPS,Priority Mail,7,50,100,18.0
+CR003,USPS,Priority Mail,8,0,1,8.49
+CR003,USPS,Priority Mail,8,1,3,8.49
+CR003,USPS,Priority Mail,8,3,5,8.9
+CR003,USPS,Priority Mail,8,5,10,9.32
+CR003,USPS,Priority Mail,8,10,20,10.35
+CR003,USPS,Priority Mail,8,20,50,12.42
+CR003,USPS,Priority Mail,8,50,100,18.63
+CR004,XPO LTL,Standard LTL,2,0,150,0.54
+CR004,XPO LTL,Standard LTL,2,150,300,0.593
+CR004,XPO LTL,Standard LTL,2,300,500,0.645
+CR004,XPO LTL,Standard LTL,2,500,1000,0.715
+CR004,XPO LTL,Standard LTL,3,0,150,0.6
+CR004,XPO LTL,Standard LTL,3,150,300,0.652
+CR004,XPO LTL,Standard LTL,3,300,500,0.705
+CR004,XPO LTL,Standard LTL,3,500,1000,0.775
+CR004,XPO LTL,Standard LTL,4,0,150,0.66
+CR004,XPO LTL,Standard LTL,4,150,300,0.712
+CR004,XPO LTL,Standard LTL,4,300,500,0.765
+CR004,XPO LTL,Standard LTL,4,500,1000,0.835
+CR004,XPO LTL,Standard LTL,5,0,150,0.72
+CR004,XPO LTL,Standard LTL,5,150,300,0.772
+CR004,XPO LTL,Standard LTL,5,300,500,0.825
+CR004,XPO LTL,Standard LTL,5,500,1000,0.895
+CR004,XPO LTL,Standard LTL,6,0,150,0.78
+CR004,XPO LTL,Standard LTL,6,150,300,0.833
+CR004,XPO LTL,Standard LTL,6,300,500,0.885
+CR004,XPO LTL,Standard LTL,6,500,1000,0.955
+CR004,XPO LTL,Standard LTL,7,0,150,0.84
+CR004,XPO LTL,Standard LTL,7,150,300,0.892
+CR004,XPO LTL,Standard LTL,7,300,500,0.945
+CR004,XPO LTL,Standard LTL,7,500,1000,1.015
+CR004,XPO LTL,Standard LTL,8,0,150,0.9
+CR004,XPO LTL,Standard LTL,8,150,300,0.952
+CR004,XPO LTL,Standard LTL,8,300,500,1.005
+CR004,XPO LTL,Standard LTL,8,500,1000,1.075
+CR004,XPO LTL,Expedited LTL,2,0,150,0.675
+CR004,XPO LTL,Expedited LTL,2,150,300,0.741
+CR004,XPO LTL,Expedited LTL,2,300,500,0.806
+CR004,XPO LTL,Expedited LTL,2,500,1000,0.894
+CR004,XPO LTL,Expedited LTL,3,0,150,0.75
+CR004,XPO LTL,Expedited LTL,3,150,300,0.816
+CR004,XPO LTL,Expedited LTL,3,300,500,0.881
+CR004,XPO LTL,Expedited LTL,3,500,1000,0.969
+CR004,XPO LTL,Expedited LTL,4,0,150,0.825
+CR004,XPO LTL,Expedited LTL,4,150,300,0.891
+CR004,XPO LTL,Expedited LTL,4,300,500,0.956
+CR004,XPO LTL,Expedited LTL,4,500,1000,1.044
+CR004,XPO LTL,Expedited LTL,5,0,150,0.9
+CR004,XPO LTL,Expedited LTL,5,150,300,0.966
+CR004,XPO LTL,Expedited LTL,5,300,500,1.031
+CR004,XPO LTL,Expedited LTL,5,500,1000,1.119
+CR004,XPO LTL,Expedited LTL,6,0,150,0.975
+CR004,XPO LTL,Expedited LTL,6,150,300,1.041
+CR004,XPO LTL,Expedited LTL,6,300,500,1.106
+CR004,XPO LTL,Expedited LTL,6,500,1000,1.194
+CR004,XPO LTL,Expedited LTL,7,0,150,1.05
+CR004,XPO LTL,Expedited LTL,7,150,300,1.116
+CR004,XPO LTL,Expedited LTL,7,300,500,1.181
+CR004,XPO LTL,Expedited LTL,7,500,1000,1.269
+CR004,XPO LTL,Expedited LTL,8,0,150,1.125
+CR004,XPO LTL,Expedited LTL,8,150,300,1.191
+CR004,XPO LTL,Expedited LTL,8,300,500,1.256
+CR004,XPO LTL,Expedited LTL,8,500,1000,1.344
