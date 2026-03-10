@@ -8,6 +8,17 @@ This project simulates the design of a revenue-focused analytics data mart that 
 
 The resulting models are structured to support scalable BI reporting and Tableau dashboard development.
 
+## Analytics Architecture
+
+This project follows a layered analytics modeling approach commonly used in modern BI environments.
+
+Raw Source Data (CSV tables)  
+→ SQL Staging Layer  
+→ Business Metric Models  
+→ Executive KPI Summary Table  
+→ Tableau Executive Dashboard
+
+The SQL models define standardized revenue metrics, retention analysis, product performance, and customer lifetime value used for executive reporting.
 ## Business Questions Answered
 
 - How is revenue trending month over month?
